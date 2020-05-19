@@ -1,0 +1,33 @@
+.one{
+  width:400px;
+  height:400px;
+}
+.two{
+  width:250px;
+  height:250px;
+}
+
+.wwd{
+    color:blue;
+}
+#aqua{
+  color:teal;
+  font-size:20px;
+}
+#teal{
+  color:teal;
+  font-size:20px;
+}
+.three{
+  position:relative;
+  margin-top:-100px;
+  margin-left:300px;
+  color:navy;
+}
+#fast{
+  font-size:30px;
+  width:700px;
+  margin-left:800px;
+  margin-top:-600px;
+  color:navy;
+}

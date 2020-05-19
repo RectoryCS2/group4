@@ -1,0 +1,30 @@
+.title{
+  margin-right:33.5%;
+  margin-left:33.5%;
+  font-size:50px;
+  border-style:solid;
+  border-width:3px;
+  border-color:green;
+  background-color:blue;
+  color:snow;
+  font-family:impact;
+}
+.image{
+  width:200px;
+  border-style:solid;
+  border-width:5px;
+  border-color:blue;
+}
+#phone{
+  width:200px;
+  border-style:solid;
+  border-width:5px;
+  border-color:blue;
+}
+#lawn{
+  margin-left:33.5%;
+}
+.para{
+  font-size:15px;
+  font-family:arial;
+}

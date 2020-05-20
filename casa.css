@@ -10,6 +10,7 @@
   font-family:impact;
 }
 .title{
+  margin-top:50px;
   margin-right:75%;
   font-size:20px;
   font-family:arial;
@@ -37,4 +38,8 @@
 }
 #phone{
   width:200px;
+}
+#house{
+  height:100px;
+  position:absolute;
 }

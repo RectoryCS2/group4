@@ -10,7 +10,6 @@
   font-family:impact;
 }
 .image{
-  width:200px;
   border-style:solid;
   border-width:5px;
   border-color:blue;
@@ -23,6 +22,23 @@
 }
 #lawn{
   margin-left:33.5%;
+  width:200px;
+}
+#bonus{
+  width:200px;
+}
+#review{
+  width:200px;
+}
+#house{
+  height:100px;
+  position:absolute;
+}
+#kids{
+  position:absolute;
+  margin-top:-50px;
+  margin-left:400px;
+  height:50px;
 }
 .para{
   font-size:15px;
